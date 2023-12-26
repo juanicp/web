@@ -1,0 +1,47 @@
+body {
+  margin: 0 auto;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  color: #707070;
+  background-color: #000000;
+}
+p {
+  line-height: 1.4;
+}
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+a:link {
+  color: #ffffff;
+}
+a:visited {
+  color: #ffffff;
+}
+a:focus {
+  color: #ff0d51;
+  border-bottom: 1px solid;
+}
+a:hover {
+color: #ff0d51;
+  border-bottom: 1px solid;
+}
+a:active {
+  background: #c60038;
+  color: #00ced0;
+}
+* {margin: 0; padding: 0}
+body::-webkit-scrollbar {
+  width: 14px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #242424;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #ff0d51;    /* color of the scroll thumb */
+  border-radius: 2px;       /* roundness of the scroll thumb */
+  border: 1px solid #700022;  /* creates padding around scroll thumb */
+}
