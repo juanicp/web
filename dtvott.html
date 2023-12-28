@@ -1,0 +1,42 @@
+<html lang="es">
+<meta name=robots content=noindex />
+<link rel=StyleSheet href="//juani.webcindario.com/style.css" type="text/css" media=screen>
+<script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
+<script> jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
+</script>
+<div id="player2">Cargando...</div>
+<script type="text/javascript">
+  function getData(e) {e = e.replace(/[\[]/, "[").replace(/[\]]/, "]"); var a = new RegExp("[?&]" + e + "=([^&#]*)").exec(location.search); return null === a ? "" : decodeURIComponent(a[1].replace(/\+/g, " "))}
+  jwplayer("player2").setup({
+    playlist: [{
+      "title": getData("canal"),
+      "description": "jcp",
+      "image": "//juani.6te.net/img/jcp-sinocargo2.jpg",
+      "sources": [{
+        "default": true,
+        "label": "0",
+        "type": "dash",
+        "file": atob(getData("get")),
+        "drm": {"clearkey": {"key": atob(getData("key2")), "keyId": atob(getData("key"))}}
+      }]
+    }],
+    autostart: "true",
+    width: "100%",
+    height: "100%",
+    aspectratio: "16:9",
+    stretching: "exactfit",
+    cast: {},
+    sharing: false,
+    skin: {
+      name: "five",
+      active: "#ff0d51",
+      background: "",
+      inactive: ""
+    }
+    //en app
+    //width: "100vw", height: "100vh", autostart: true, cast: {}, sharing: false
+  });
+  jwplayer("player2").on("play", function (e) {jwplayer("player3").setCurrentAudioTrack(getData("lang"))});
+</script>
+
+</html>
