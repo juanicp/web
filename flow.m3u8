@@ -186,7 +186,7 @@ https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/568.m3u8
 ###http://pe.shortgod.com/wow/play.php?id=47###
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/distritocomedia.png" tvg-country="mx" group-title="VARIEDADES", DISTRITOCOMEDIA 
-http://bgtv.xyz/play/play-926.php?ul=32&token=asdfasdasdfggh
+http://bgtv.xyz/play/play-111.php?ul=32&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title="VARIEDADES",DC
@@ -641,18 +641,6 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 #EXTVLCOPT--http-reconnect=true
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Arena Sports 1pr
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Tele 11
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 
 
