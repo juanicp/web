@@ -159,7 +159,8 @@ https://1011-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/320px-Logoexitosa.png" tvg-country="PE" group-title="VARIEDADES", EXITOSA 🇵🇪
 #EXTVLCOPT:http-user-agent="FireFox"
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
+###https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8###
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/39.png" group-title="VARIEDADES", TV Chile 🇨🇱
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "RGtxpt64BsbxKeJd6ZnQfA","kid": "xdDXbiSEQjWYj5JlYZ5f7A"}],"type": "temporary"}
