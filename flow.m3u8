@@ -186,7 +186,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
 ###http://pe.shortgod.com/wow/play.php?id=47###
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/distritocomedia.png" tvg-country="mx" group-title="VARIEDADES", DISTRITOCOMEDIA 
-http://bgtv.xyz/play/play-111.php?ul=32&token=asdasdfasdf
+http://bgtv.xyz/play/play-128.php?ul=32&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title="VARIEDADES",DC
