@@ -209,7 +209,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
 ###http://pe.shortgod.com/wow/play.php?id=47###
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/distritocomedia.png" tvg-country="mx" group-title="VARIEDADES", DISTRITOCOMEDIA 
-http://bgtv.xyz/play/play-117.php?ul=32&token=dfghdfghfghdfghdfg
+http://bgtv.xyz/play/play-127.php?ul=32&token=dfghdfghfghdfghdfg
 ##EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title="VARIEDADES",DC
@@ -682,7 +682,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"78piZPBM9zc94MMOx5/pCQ","kid":"CULk7NG9NWfo+UR/RcIKEg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referer=https://bitmovin.com/
+#EXTVLCOPT:http-referer=https://cvattv.com.ar/
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
