@@ -13,7 +13,7 @@
   <script type="text/javascript">
     function _GET(a) {a=a.replace(/[\[]/,"[").replace(/[\]]/,"]");
                       var b=new RegExp("[?&]"+a+"=([^&#]*)").exec(location.search); return null===b?"":decodeURIComponent(b[1].replace(/\+/g,""))};
-    var sd = "//edge-live02-cen", can = _GET("canal"), url = _GET("get"), kid = _GET("key"), key = _GET("key2"), lang = _GET("lang"),
+    var sd = "//cdn", can = _GET("canal"), url = _GET("get"), kid = _GET("key"), key = _GET("key2"), lang = _GET("lang"),
       player = jwplayer("player02");
     player.setup({
       playlist: [{
