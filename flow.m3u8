@@ -682,7 +682,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"78piZPBM9zc94MMOx5/pCQ","kid":"CULk7NG9NWfo+UR/RcIKEg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referer=https://cvattv.com.ar/
+#EXTVLCOPT:http-referer=https://www.cvattv.com.ar/
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
