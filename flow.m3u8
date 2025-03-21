@@ -619,9 +619,7 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png" group-title="DEPORTES", TyC DTV
 KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TE8ChmR5Y67AXBXfG6USJA","kid":"Y+aw22ZDRVaiPIVb1bbn0g"}],"type":"temporary"}
 KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent="VLC/3.0.0-git LibVLC/3.0.0-git"
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?dvr_window_length=30&token=yDa24ULkzl3U0lPIBu6RSQO038AWLm1H
 ###https://1240-vos.dtvott.com/DASH/manifest.mpd###
 
