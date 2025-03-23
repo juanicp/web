@@ -46,7 +46,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CbSkY7Ap68KKKIvtLacKdg","kid":"UXkBf0kybRSvCpzuyDGu5g"}]}
-#KODIPROP:inputstream.adaptive.stream_headers=referer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-origin=https://web.app.flow.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -531,7 +531,7 @@ http://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/Ty
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zCPqH7MmKfnh9IyN7q4+Ww","kid":"KyHI+poynM4xGkxKSqmWoQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -541,7 +541,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y4nuOWFZnj5kilqtYIlfNA","kid":"6IS3EasRG+uKe6HnvL3Jvw"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=referer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -587,7 +587,7 @@ https://edge-live02-cen.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qsYbcw4qwd8j8ehy51QcGw","kid":"y8Kgx6ON8KozM81xhB07DQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=referer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -597,7 +597,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UIbTcOhAAQIyz0UysW4Zfw","kid":"yY3f/EcP5EmuGo1kkhFpdg"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=referer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -666,7 +666,7 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zwGEgwNEujatL/753S3Z0A","kid":"+q0XIqV19Nnse3dNtjyHnA"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=referer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -682,7 +682,7 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R3rRifH80rrsAmBoEH+GLw","kid":"gCPoXvnRdWHuG0JBebGxXg"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=referer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -692,7 +692,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"78piZPBM9zc94MMOx5/pCQ","kid":"CULk7NG9NWfo+UR/RcIKEg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referer=https://www.cvattv.com.ar/
+#EXTVLCOPT:http-referer=https://web.app.flow.com.ar/
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
