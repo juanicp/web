@@ -699,7 +699,7 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 ###https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd###
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png" group-title="DEPORTES", TyC DTV
-KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TE8ChmR5Y67AXBXfG6USJA","kid":"Y+aw22ZDRVaiPIVb1bbn0g"}],"type":"temporary"}
+KODIPROP:inputstream.adaptive.license_key=63e6b0db66434556a23c855bd5b6e7d2:4c4f0286647963aec05c15df1ba51224
 KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent="VLC/3.0.0-git LibVLC/3.0.0-git"
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?dvr_window_length=30&token=ttGmLmXXJejsDclPg9bUexghDOFohiaw
@@ -708,7 +708,6 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?dvr
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1621.png" group-title="DEPORTES", ESPN DTV
 #EXTVLCOPT:http-user-agent="FireFox"
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="DEPORTES", Fox Sports DTV
 #EXTVLCOPT:http-user-agent="FireFox"
