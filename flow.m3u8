@@ -704,7 +704,7 @@ KODIPROP:inputstream.adaptive.license_key=63e6b0db66434556a23c855bd5b6e7d2:4c4f0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
-https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?dvr_window_length=30&token=ttGmLmXXJejsDclPg9bUexghDOFohiaw
+https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?token=ttGmLmXXJejsDclPg9bUexghDOFohiaw
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1621.png" group-title="DEPORTES", ESPN DTV
 #EXTVLCOPT:http-user-agent="FireFox"
