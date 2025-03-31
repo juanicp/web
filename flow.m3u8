@@ -211,13 +211,20 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/distritocomedia.png" tvg-country="mx" group-title="VARIEDADES", DISTRITO COMEDIA
-http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/distritocomedia.png" tvg-country="mx" group-title="VARIEDADES", DISTRITOCOMEDIA 
-http://bgtv.xyz/play/play-127.php?ul=32&token=dfghdfghfghdfghdfg
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuxA4Ez4xTPPMGMhBScmqA","kid":"5p98uWnfLu8bYN3qBFi/7w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title="VARIEDADES",DC
-http://181.78.105.146:2000/play/a08t/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuxA4Ez4xTPPMGMhBScmqA","kid":"5p98uWnfLu8bYN3qBFi/7w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://www.izzigo.tv/"
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/goldenedge.png" tvg-country="mx" group-title="VARIEDADES", GOLDEN EDGE
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
