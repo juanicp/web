@@ -707,7 +707,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?tok
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1621.png" group-title="DEPORTES", ESPN DTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sdYkAPErcY71ZF8goDIEuA","kid":"yC4Wg1MKTEGGQ8Rhy0JCLw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=c82e1683530a4c418643c461cb42422f:b1d62400f12b718ef5645f20a03204b8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_IV/sa_live_dash/ESPN_BKP_IV.mpd
