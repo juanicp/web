@@ -181,6 +181,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-country="PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="VARIEDADES", AMERICA 🇵🇪
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mupfCXYDs9yRm6hmlMGjnQ","kid":"GRy3fcYiOduHWW3sYsm5jw"}],"type":"temporary"}###
 ###KODIPROP:inputstream.adaptive.license_type=clearkey###
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://tv360.bitel.com.pe/"
 #EXTVLCOPT:http-user-agent="FireFox"
 https://live-evg4.tv360.bitel.com.pe/ayeMxwq6-auI2hfqZ49BQA/1747410636//bitel/americatv/playlist.m3u8?uid=6236042
 ###https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=6236042###
