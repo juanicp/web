@@ -167,8 +167,8 @@ https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_N
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=6236042
-###https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8###
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+###https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=6236042###
 
 #EXTINF:-1 tvg-country="PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1192.png" group-title="VARIEDADES", LATINA 🇵🇪
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3v+MvzNf2T+KO95S0juyHg","kid":"JY2al9AEM0SbJJ/tRgJTJg"}],"type":"temporary"}###
