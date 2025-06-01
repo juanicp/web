@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty":"oct","k":"eqkmbtkepFEEgzcAKd/PRQ","kid":"jqI1zggmQIsiHEmBFam2LQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
@@ -15,7 +15,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zEquFz3S7xeuJr4/euh2Yg","kid":"zIyCrC7H6XmVJ8KdtzVOgQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="FireFox"
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
@@ -24,7 +24,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCEi+EJsXJQrjBjSmcxgIA","kid":"JPT/IRE2rmUSobVSIA20BQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referer=https://portal.app.flow.com.ar/
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 
@@ -32,7 +32,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xp86/eIIXcqq3b9VJGoDIw","kid":"POwbHql5ndpVluZPN+XtIA"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
@@ -341,7 +341,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/Discove
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"so36+6S4SN/V18F36/GRCA","kid":"UnnAXqUcTa6Of6a+iESAiQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/493.png" group-title="DOCUMENTALES", DISCOVERY SCIENCE
@@ -349,7 +349,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8Sn7m10hPiDiq+UpuM8llw","kid":"RrpAn7BOQPuGtGbZfjqViA"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1389.png" group-title="DOCUMENTALES", DISCOVERY WORLD
@@ -383,7 +383,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Wg7jbtm4kgyxlUb9kvLUFQ","kid":"7L6X7DR4QwSzkKEro4VMzw"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4909.png" group-title="DOCUMENTALES", TLC 
@@ -594,7 +594,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y4nuOWFZnj5kilqtYIlfNA","kid":"6IS3EasRG+uKe6HnvL3Jvw"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
@@ -754,7 +754,7 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R3rRifH80rrsAmBoEH+GLw","kid":"gCPoXvnRdWHuG0JBebGxXg"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 
