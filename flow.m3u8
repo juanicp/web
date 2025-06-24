@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty":"oct","k":"eqkmbtkepFEEgzcAKd/PRQ","kid":"jqI1zggmQIsiHEmBFam2LQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=referer="https://portal.app.flow.com.ar/"
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTVLCOPT:http-user-agent=Chrome/133.0.6943.127
 https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 #EXTINF:-0 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="ARGENTINA", TV PUBLICA
