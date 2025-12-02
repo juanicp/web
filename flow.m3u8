@@ -225,9 +225,9 @@ https://zap-live1-ott.izzigo.tv/14/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0sejrj1ipd/out/v1/f87c139bde754f44ab36e193d1430e86/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/goldenedge.png" tvg-country="mx" group-title="VARIEDADES", GOLDEN EDGE
-#KODIPROP:inputstream.adaptive.license_key=501c5afa5a6ca014ee798c7713454715:b56db6f8bf583df8f6b9d0bb4cd63a7b
+#KODIPROP:inputstream.adaptive.license_key=6e8bd53378356ed7f5103d91efb5e54e:98aa90cb620b972a0d0d66a51cdaca56
 ###KODIPROP:inputstream.adaptive.license_key=706b902ddb29aed7f241185ba8b58b37:b4b46f73f8b72c198b5dd8d7413b5a39###
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/taxkqu28zg/out/v1/e3e2a1b75df5401783b27939805d33c2/cenc-sd.mpd
+https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 ###https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hqpwskclwy/out/v1/b852d8a3e9ed46a2880124dbbda383d4/cenc-sd.mpd##
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1503.png" tvg-country="mx" group-title="VARIEDADES", GOLDEN Plus
