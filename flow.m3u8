@@ -216,12 +216,12 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title="VARIEDADES",DC
-###KODIPROP:inputstream.adaptive.manifest_type=mpd###
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuxA4Ez4xTPPMGMhBScmqA","kid":"5p98uWnfLu8bYN3qBFi/7w"}],"type":"temporary"}###
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ecf73546bb0a453afd0c4740185fe130:b415fc03bcc5e21e43d803f9fb440c0b
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ###KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"###
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://vivo.lamtv.tv:8081/a/0049/playlist.m3u8|user-agent=Xskdnjoksdna34nm
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0sejrj1ipd/out/v1/f87c139bde754f44ab36e193d1430e86/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/goldenedge.png" tvg-country="mx" group-title="VARIEDADES", GOLDEN EDGE
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
