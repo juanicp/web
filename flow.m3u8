@@ -211,7 +211,7 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=12ec40e04cf8c533cf306321052726a8:e69f7cb969df2eef1b60ddea0458bfef
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+###KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"###
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://zap-live1-ott.izzigo.tv/14/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 ###https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd###
