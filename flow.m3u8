@@ -26,7 +26,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="ARGENTINA", TELEFE
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xp86/eIIXcqq3b9VJGoDIw","kid":"POwbHql5ndpVluZPN+XtIA"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" group-title="ARGENTINA", ELTRECE
