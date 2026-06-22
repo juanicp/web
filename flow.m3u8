@@ -693,11 +693,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 ###https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8###
 ###https://1059-vos.dtvott.com/DASH/manifest.mpd###
 
-#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports +3
+#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports +4
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n87/Lz1w4vVp1VZUB9f3Qw","kid":"FDxxKSpt1YQE760oOyIFOQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar"
 #KODIPROP:inputstream.adaptive.stream_headers=referer="https://portal.app.flow.com.ar"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://qn-01282-bel-1-04-2---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjQ3MDI2Iiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1NvbnlIRC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQxNWJhNDcyYmU0YTZiYTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjgyIiwic291cmNlcyI6WzE5MSw4NSwxNDQsMjEwLDg2LDg4XX0=.zyrhmbIrI5zJseP3RAkR3CrNL9VO4lFSgtwZzJfLyP1i4F3_80FRVE83XbeisqF33rhR4RRLntUCCnM3JDWoyw==/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png" group-title="DEPORTES", TyC
