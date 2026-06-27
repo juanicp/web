@@ -181,7 +181,8 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://tv360.bitel.com.pe"
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://tv360.bitel.com.pe/"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8?uid=6236042
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+###https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8?uid=6236042
 ###https://live-evg4.tv360.bitel.com.pe/ayeMxwq6-auI2hfqZ49BQA/1747410636//bitel/americatv/playlist.m3u8?uid=6236042###
 ###https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=6236042###
 ###https://1011-vos.dtvott.com/DASH/manifest.mpd###
@@ -696,8 +697,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports +4
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n87/Lz1w4vVp1VZUB9f3Qw","kid":"FDxxKSpt1YQE760oOyIFOQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://qn-01282-bel-1-04-2---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjQ3MDI2Iiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1NvbnlIRC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQxNWJhNDcyYmU0YTZiYTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjgyIiwic291cmNlcyI6WzE5MSw4NSwxNDQsMjEwLDg2LDg4XX0=.zyrhmbIrI5zJseP3RAkR3CrNL9VO4lFSgtwZzJfLyP1i4F3_80FRVE83XbeisqF33rhR4RRLntUCCnM3JDWoyw==/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png" group-title="DEPORTES", TyC
