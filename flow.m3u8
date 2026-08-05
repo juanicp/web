@@ -223,11 +223,10 @@ https://aca-live-ott.izzigo.tv/14/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 ###https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd###
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title="VARIEDADES",DC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ac71c079e88f068aad80e947bac1b494:2c73635de48c1033f60965175563af02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ###KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"###
-#EXTVLCOPT:http-user-agent="VLC/3.0.0-git LibVLC/3.0.0-git"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36, sec-ch-ua-platform:\Windows\ ,sec-ch-ua-mobile:
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jainwiiq5g/out/v1/1094f5319566443cb6a9000810384a1a/cenc.mpd
 ###https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0sejrj1ipd/out/v1/f87c139bde754f44ab36e193d1430e86/cenc-sd.mpd
 
