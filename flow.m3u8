@@ -56,9 +56,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" group-title="ARGENTINA", LN+ 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "p00d9CNadIeDJ6qNU/8oPA","kid": "9Oree7w5slQCrPowG7rQSg"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"authorization":"headers eyJvcmlnaW4iOiJodHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXIvIiwicmVmZXJlciI6Imh0dHBzOi9wb3J0YWwuYXBwLmZsb3cuY29tLmFyLyJ9"}
+#EXTHTTP:{"authorization":"headers tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NTMzODgzIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRGlzY292ZXJ5SG9tZUhlYWx0aEhEL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiMzE3MWY0MmE0NjI0OTU0NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.9AbSBbYQqcnCTjmi7amKMYp6Css27Tr5UUtGUoBRRiFRxtetxJUvJ0HSTuN-FxL2OVvF6dCbJXMeTo7r_Mgg2w=="}
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
+https://edge-live01-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/192.png" group-title="ARGENTINA", Cronica 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "UKzZ0Z0TYctKihOoZ73DUg","kid": "dF56vMkNQatwayrC9Dcdow"}],"type": "temporary"}
