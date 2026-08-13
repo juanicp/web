@@ -365,6 +365,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theate
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8Sn7m10hPiDiq+UpuM8llw","kid":"RrpAn7BOQPuGtGbZfjqViA"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NTMzODY5Iiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVEJTL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiMDYxN2FhNDMzN2E2ZjllMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.G1VR38_pzFyxfO_RCMsaWmB45JoREr6YHZTqEz60qLDCVdd0WFrcGwOkw35gaDTmOGdPQYpuIMIBFRKu22c8oQ==/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd
 
@@ -402,7 +403,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Wg7jbtm4kgyxlUb9kvLUFQ","kid":"7L6X7DR4QwSzkKEro4VMzw"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NTMzODY5Iiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVEJTL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiMDYxN2FhNDMzN2E2ZjllMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.G1VR38_pzFyxfO_RCMsaWmB45JoREr6YHZTqEz60qLDCVdd0WFrcGwOkw35gaDTmOGdPQYpuIMIBFRKu22c8oQ==/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd
 
