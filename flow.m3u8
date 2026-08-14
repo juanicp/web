@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty":"oct","k":"eqkmbtkepFEEgzcAKd/PRQ","kid":"jqI1zggmQIsiHEmBFam2LQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
-https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NTMzNTU1Iiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0FtZXJpY2EyNC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJmZmM0M2IyYjgyZTliNzAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.UR93BUkThpfb6n-qjpaUJHSaw02cT1_gXmdfKwO74-qFfLD2IPbcr3oeTy5ntMv9F0Og3LCBQ8B9e02yEMGibA==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NzE0NDk4Iiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRmxvd19NdXNpY18zL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiZDg3ODYwNTVlNmQ1OWI2OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.9UHUfAB74b5GiyIWVxdZWQ6IO2m-azWUp9VBNTsfjiD1ZfIqItDzEInKAQIBeUGXjcgf81X7Dl5RzavolwjVZQ==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
 #EXTINF:-0 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="ARGENTINA", TV PUBLICA
@@ -44,14 +44,14 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar"
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://web.app.flow.com.ar/"
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NzE0NDk4Iiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRmxvd19NdXNpY18zL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiZDg3ODYwNTVlNmQ1OWI2OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.9UHUfAB74b5GiyIWVxdZWQ6IO2m-azWUp9VBNTsfjiD1ZfIqItDzEInKAQIBeUGXjcgf81X7Dl5RzavolwjVZQ==/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" group-title="ARGENTINA", C5N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DkFB1qsho2y8Tad3qzCW1A","kid":"BQ31xueMd054w+me74obKQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=portal.app.flow.com.ar
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 ]
-https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
+https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NzE0NDk4Iiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRmxvd19NdXNpY18zL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiZDg3ODYwNTVlNmQ1OWI2OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.9UHUfAB74b5GiyIWVxdZWQ6IO2m-azWUp9VBNTsfjiD1ZfIqItDzEInKAQIBeUGXjcgf81X7Dl5RzavolwjVZQ==/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" group-title="ARGENTINA", LN+ 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "p00d9CNadIeDJ6qNU/8oPA","kid": "9Oree7w5slQCrPowG7rQSg"}],"type": "temporary"}
