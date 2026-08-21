@@ -723,7 +723,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.license_key=0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
-https://<?= $cdn1 ?>.cvattv.com.ar/<?= $token1 ?>/live/c5eds/SA_Live_dash_enc/DSports_2.mpd
+https://<?= $cdn1 ?>.cvattv.com.ar/<?= $token1 ?>/live/c3eds/SA_Live_dash_enc/DSports_2.mpd
 
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports +
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n87/Lz1w4vVp1VZUB9f3Qw","kid":"FDxxKSpt1YQE760oOyIFOQ"}],"type":"temporary"}
